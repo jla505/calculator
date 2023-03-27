@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600&family=Roboto:wght@400;700&display=swap');
 
 :root {
-	--yellow: #FCB31B;
+	--yellow: #838383;
 	--white: #ffffff;
 }
 
@@ -47,7 +47,7 @@
 	width: 100%;
 	/* height: 5.5rem; */
 	border: 0px;
-	background: #3B3B3B;
+	background: #5d5d5d;
 	border-radius: .725rem;
     padding: .650rem;
     box-shadow: inset 2px 3px 5px 0px rgba(0,0,0,0.7);
